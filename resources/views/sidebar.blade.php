@@ -52,14 +52,14 @@
                     </li>
                 </ul>
             </li>
-            <li class="nav-item">
+<!--             <li class="nav-item">
                 <a href="{{ route('video') }}" class="nav-link {{ request()->is('api/video') ? 'active' : ''}}">
                     <i class="fa-solid fa-video nav-icon"></i>
                     <p>
                         Videos
                     </p>
                 </a>
-            </li>
+            </li> -->
         </ul>
         </nav>
     </div>
